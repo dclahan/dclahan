@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dolan Clahan, a Junior at RPI @dclahan
-- 👀 I’m interested in data structures, APIs, algorithms
-- 🌱 I’m currently learning Principles of Software, Operating Systems, Reactjs
+- 👀 I’m interested in machine learning, network programming, and algorithms
+- 🌱 I’m currently working as a machine-learning intern at StockX
 - 📫 How to reach me clahad@rpi.edu school email, reach out for personal information.
 
 <!---
