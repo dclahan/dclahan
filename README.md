@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dolan Clahan, a Junior at RPI @dclahan
-- 👀 I’m interested in machine learning, network programming, and algorithms
-- I am currently trying to figure out how to create a website but it is hard and confusing and I've always done back end stuff
+- 👋 Hi, I’m Dolan Clahan, a Senior at RPI @dclahan
+- 👀 I’m interested in machine learning, learning more about network programming (and hacking bwahaha), and fun algorithms
+- I am currently trying to figure out how to create a website but it is hard and confusing and I've always done back end stuff, never front end :/
 - 📫 How to reach me clahad@rpi.edu school email, reach out for personal information.
 
 <!---
